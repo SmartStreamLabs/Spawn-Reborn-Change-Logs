@@ -1,0 +1,19 @@
+Change logs: 2.1.7
+
+1 = Fixed a issue with world generation of the ore: Arctic jewel. SORRY!
+2 = Added new recepts to change the ore blocks back to ingots.
+3 = Changed the hardness of: Glacite & Thunderstone & Pinkaurium & End coralium.
+4 = Fixed a texure bug with the clowing creeper.
+5 = Changed the cooking time of: Netherquartz, was: 150 now: 400.
+6 = Fixed a bug with a achievement of: Netherite star.
+7 = Updated the version of the mod was: 2.1.6 now: 2.1.7
+8 = Added a new food item: Enchanted_Enderanium_Apple ( OP )
+9 = Added a new item: Enderanium_Pearl
+10 = Added new gear for the World breaker set. ( OP )
+11 = Added new achievements to the mod.
+12 = Added more spawn locations for herobrine.
+13 = Added a new Ai to herobrine, When hitting him he will teleport away. LIKE A COWARD!
+
+ 
+
+
